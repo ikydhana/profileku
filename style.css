@@ -1,0 +1,25 @@
+#header{
+	width: 100%;
+	height: 100px;
+	background: #666;
+	text-align: center;
+}
+#header h1{
+	margin: 0;
+	line-height: inherit;
+}
+#main-content,
+#right-sidebar{
+	height: 400px;
+	color: white;
+}
+#main-content{
+	background: #666;
+}
+#right-sidebar{
+	background: #999;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.
